@@ -1,4 +1,4 @@
-<h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By KingKongVPN <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
+<h2 align="center">AutoScript Install SSH & OpenVPN For Debian VPS By yessVPN <img src="https://img.shields.io/badge/Version-2.0.4-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -14,17 +14,17 @@
 ## Installation :
 
   ```html
-wget https://raw.githubusercontent.com/xiihaiqal/AutoScriptVPS/master/AutoScript && chmod +x AutoScript && ./AutoScript
+wget https://raw.githubusercontent.com/hisamsaka/yess/master/AutoScript && chmod +x AutoScript && ./AutoScript
   ```
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/1.png">
+<img src="https://github.com/hisamsaka/yess/raw/master/Snapshots/1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/3.png">
+  <img src="https://github.com/hisamsaka/yess/raw/master/Snapshots/3.png">
    </p>
   <p align="center">
-  <img src="https://github.com/xiihaiqal/AutoScriptVPS/raw/master/Snapshots/4.png">
+  <img src="https://github.com/hisamsaka/yess/raw/master/Snapshots/4.png">
    </p>
    
 
